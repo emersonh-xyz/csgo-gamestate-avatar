@@ -1,0 +1,22 @@
+{
+  "name": "csgo-gamestate-avatar",
+  "version": "0.1.0",
+  "private": false,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Emerson Hicks",
+  "license": "MIT",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^4.8.5",
+    "simple-node-logger": "^0.93.28",
+    "steam-user": "^4.25.0",
+    "steamcommunity": "^3.44.2"
+  },
+  "devDependencies": {
+    "electron": "^21.0.1"
+  },
+  "main": "config.js",
+  "description": ""
+}
